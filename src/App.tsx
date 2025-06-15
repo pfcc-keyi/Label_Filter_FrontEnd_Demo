@@ -1,14 +1,12 @@
-import React, { useState, useEffect } from 'react';
-import { Layout, Typography, Card, Upload, message, Button, Select, Tag, Space, Row, Col, Alert, Collapse, Checkbox, Input } from 'antd';
-import { InboxOutlined, PlusOutlined, DeleteOutlined, DownloadOutlined, BugOutlined, UpOutlined, DownOutlined, SearchOutlined } from '@ant-design/icons';
+import { useState, useEffect } from 'react';
+import { Layout, Typography, Card, Upload, message, Button, Select, Tag, Space, Row, Col, Collapse, Checkbox, Input } from 'antd';
+import { InboxOutlined, DownloadOutlined, UpOutlined, DownOutlined, SearchOutlined } from '@ant-design/icons';
 import * as XLSX from 'xlsx';
 import 'antd/dist/reset.css';
 
 const { Header, Content } = Layout;
 const { Title, Text } = Typography;
 const { Dragger } = Upload;
-const { Option } = Select;
-const { Panel } = Collapse;
 
 interface UserData {
   file_name: string;
@@ -57,7 +55,6 @@ function App() {
     language_skill: []
   });
   const [labelsLoading, setLabelsLoading] = useState(true);
-  const [debugMode, setDebugMode] = useState(false);
   const [uploadCollapsed, setUploadCollapsed] = useState(false);
   // 搜索状态
   const [searchTerms, setSearchTerms] = useState<{[key: string]: string}>({
@@ -215,13 +212,6 @@ function App() {
     const processed1 = preprocessText(excelValue);
     const processed2 = preprocessText(labelValue);
     const match = processed1 === processed2;
-    
-    if (debugMode) {
-      console.log(`Matching: "${excelValue}" vs "${labelValue}"`);
-      console.log(`Processed: "${processed1}" vs "${processed2}"`);
-      console.log(`Match: ${match}`);
-    }
-    
     return match;
   };
 
@@ -509,12 +499,6 @@ function App() {
   const applyFilters = () => {
     const mergedData = mergeUserData(uploadedData);
     
-    if (debugMode) {
-      console.log('=== NEW FILTER DEBUG ===');
-      console.log('Filter state:', filterState);
-      console.log('Merged data:', mergedData);
-    }
-    
     const filtered = mergedData.filter(user => {
       // 对每个dimension进行筛选
       const dimensionResults: { [key: string]: boolean } = {};
@@ -527,18 +511,12 @@ function App() {
         // 如果没有选择任何label，则该dimension通过（相当于1）
         if (selectedLabels.length === 0) {
           dimensionResults[dimension] = true;
-          if (debugMode) {
-            console.log(`User ${user.file_name} - ${dimension}: no filter (PASS)`);
-          }
           continue;
         }
         
         const userValue = user[dimension];
         if (!userValue) {
           dimensionResults[dimension] = false;
-          if (debugMode) {
-            console.log(`User ${user.file_name} - ${dimension}: no value (FAIL)`);
-          }
           continue;
         }
         
@@ -549,35 +527,18 @@ function App() {
         const dimensionMatch = selectedLabels.some(selectedLabel => {
           return userValues.some(userValue => {
             const match = isExactMatch(userValue, selectedLabel);
-            if (debugMode && match) {
-              console.log(`  Match found: "${userValue}" matches "${selectedLabel}"`);
-            }
             return match;
           });
         });
         
         dimensionResults[dimension] = dimensionMatch;
-        
-        if (debugMode) {
-          console.log(`User ${user.file_name} - ${dimension}: ${userValues} vs [${selectedLabels.join(', ')}] = ${dimensionMatch}`);
-        }
       }
       
       // 所有dimension结果进行AND操作
       const finalResult = Object.values(dimensionResults).every(result => result);
       
-      if (debugMode) {
-        console.log(`User ${user.file_name} dimension results:`, dimensionResults);
-        console.log(`User ${user.file_name} final result: ${finalResult}`);
-      }
-      
       return finalResult;
     });
-
-    if (debugMode) {
-      console.log('Filtered results:', filtered);
-      console.log('=== END NEW FILTER DEBUG ===');
-    }
 
     setFilteredData(filtered);
   };
@@ -965,11 +926,6 @@ function App() {
               {filteredData.length === 0 ? (
                 <div style={{ textAlign: 'center', padding: '40px 0', color: '#666' }}>
                   <Text type="secondary">No records match the filter conditions, please adjust the filter conditions</Text>
-                  {debugMode && (
-                    <div style={{ marginTop: 16 }}>
-                      <Text type="warning">Debug mode is ON - check browser console for detailed matching information</Text>
-                    </div>
-                  )}
                 </div>
               ) : (
                 <div style={{ maxHeight: '600px', overflowY: 'auto' }}>

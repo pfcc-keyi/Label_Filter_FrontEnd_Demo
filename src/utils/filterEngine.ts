@@ -4,7 +4,7 @@ import type { FilterExpression, ExcelRowData, LabelData } from '../types';
 export const filterData = (
   data: ExcelRowData[],
   filterExpression: FilterExpression | null,
-  labelData: LabelData
+  _labelData: LabelData
 ): ExcelRowData[] => {
   // 如果没有筛选条件，返回所有数据
   if (!filterExpression) {
