@@ -1,0 +1,53 @@
+Front Office - Relationship Manager (RM)
+Front Office - Sales
+Front Office - Trader
+Front Office - Structuring
+Front Office - Portfolio manager
+Front Office - Business Manager / COO
+Front Office - In Business Risk (1LOD Risk)
+Operations - MO
+Operations - Settlement
+Client management - Onboarding - KYC / CDD
+FCR - AML / Financial Crime
+Finance - Product Control
+Finance - Management Reporting (MI)
+Finance - Regulatory Reporting
+Finance - Legal Entity Control
+Finance - Tax
+Finance - Treasury
+Finance - Internal Audit
+Risk Management - Traded Market Risk
+Risk Management - Traded Credit Risk
+Risk Management - Wholesale Credit Risk
+Risk Management - NFR Risk (Operation risk)
+Risk Management - General Risk (entity level)
+Legal & Compliance - Business Compliance
+Legal & Compliance - Control Room
+Legal & Compliance - Trade Surveillance
+Legal & Compliance - Legal
+Tech - Project Manager
+Tech - PMO
+Tech - Business Analyst
+Tech - UI/UX
+Tech - Architect
+Tech - Developer
+Tech - DevOps
+Tech - Application Support
+Tech - QA Engineer
+Tech - Market Data
+Tech - Data Scientist / Engineer
+Tech - Data Governance / Protection
+Tech - Windows Engineer
+Tech - Linux Engineer
+Tech - Network Engineer
+Tech - Voice Engineer
+Tech - Windows Ops
+Tech - Linux Ops
+Tech - Network Ops
+Tech - DBA
+Tech - Desk Support
+Tech - Mobile Device Management
+Tech - Security Architect
+Tech - Security Assessment
+Tech - Tech Governance
+Tech - Tech Risk & Control

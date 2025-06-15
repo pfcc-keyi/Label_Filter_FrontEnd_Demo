@@ -1,0 +1,24 @@
+Investment Banking - Mergers & Acquisitions (M&A)
+Investment Banking - Capital Markets (ECM&DCM)
+Global Markets (including Sales & Trading) - Equities
+Global Markets (including Sales & Trading) - FICC
+Global Markets (including Sales & Trading) - Structured Products
+Global Markets (including Sales & Trading) - Prime Brokerage
+Global Markets (including Sales & Trading) - Treasury / Balance Sheet Management (BSM)
+Secuties Services - Custody / funding services
+Research - Equity research
+Research - FI research
+Commercial Banking - Core Lending & Credit Solutions
+Commercial Banking - Deposit & Cash Management (Treasury)
+Commercial Banking - Payment & Merchant Services
+Commercial Banking - Trade & Supply Chain Finance
+Retail banking - Core retail banking products
+Retail banking - Wealth & investment services
+Retail banking - Digital & Mobile Banking
+Private Banking - Private wealth
+Business services - Bank level support functions
+Asset Management - Hedge fund
+Asset Management - Mutual fund
+Asset Management - Private Equity (PE)
+Insurance - Core insurance products
+Insurance - Value added services

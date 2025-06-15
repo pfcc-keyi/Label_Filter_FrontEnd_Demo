@@ -1,0 +1,184 @@
+Generic-Account Management
+Generic-Adobe Experience Manager (AEM/CQ5)
+Generic-Advertising
+Generic-Agile Methodologies
+Generic-Analytical Skills
+Generic-Anti Money Laundering
+Generic-Behaviour Driven Development
+Generic-Blogging
+Generic-Brand Development
+Generic-Budgeting
+Generic-Business Analysis
+Generic-Business Development
+Generic-Business Planning
+Generic-Business Strategy
+Generic-Business to Consumer (B2C)
+Generic-Business-to-Business (B2B)
+Generic-Change Management
+Generic-Coaching
+Generic-Communication
+Generic-Community Outreach
+Generic-Contract Management
+Generic-Contract Negotiation
+Generic-Corporate Financing
+Generic-Corporate Governance
+Generic-Creative Writing
+Generic-Criminal Justice
+Generic-Cross-functional Team Leadership
+Generic-Customer Improvement
+Generic-Customer Satisfaction
+Generic-Customer Service
+Generic-Data Analysis
+Generic-Digital Marketing
+Generic-Digital Media
+Generic-Editing
+Generic-Employee Relations
+Generic-Enterprise Resource Planning (ERP)
+Generic-Entrepreneurship
+Generic-Event Planning and Management
+Generic-Fast-Moving Consumer Goods (FMCG)
+Generic-Financial Analysis
+Generic-Financial Reporting
+Generic-Financial Services
+Generic-Forecasting
+Generic-Fundraising
+Generic-Goods and Services Tax
+Generic-Government Relations
+Generic-Grant Writing
+Generic-Graphic Design
+Generic-HR Consulting
+Generic-HR Management System
+Generic-Human Resources (HR)
+Generic-Income Tax
+Generic-Information Technology
+Generic-Insurance
+Generic-Integrated Management Systems
+Generic-Internal Controls
+Generic-Interpersonal Skills
+Generic-Interviewing
+Generic-Investments
+Generic-Joint Ventures
+Generic-Journal Entries (Accounting)
+Generic-Kaizen
+Generic-Kanban
+Generic-Key Account Development
+Generic-Key Performance Indicators
+Generic-Knowledge Management
+Generic-KYC
+Generic-Law
+Generic-Lead Generation
+Generic-Leadership
+Generic-Lean Practice
+Generic-Learning and Development
+Generic-Legal Research
+Generic-Legal Writing
+Generic-Management
+Generic-Management Consulting
+Generic-Market Research
+Generic-Marketing Strategy
+Generic-Material Requirements Planning
+Generic-Meger & Acquisitions (M&A)
+Generic-Microsoft Office
+Generic-New Business Development
+Generic-Nonprofit Organisations
+Generic-Office Administration
+Generic-Online Advertising
+Generic-Online Journalism
+Generic-Online Marketing
+Generic-Operations Management
+Generic-Photography
+Generic-Problem Solving
+Generic-Product Development
+Generic-Product knowledge
+Generic-Product Management
+Generic-Profit and Loss
+Generic-Program Development
+Generic-Program Management
+Generic-Project Management
+Generic-Project Management Body of Knowledge (PMBOK)
+Generic-Project Planning
+Generic-Proposal Writing
+Generic-Public Policy
+Generic-Public Relations
+Generic-Public Speaking
+Generic-Purchase to Pay (P2P)
+Generic-Qualitative Research
+Generic-Quality Assurance
+Generic-Quality Auditing
+Generic-Quality Control
+Generic-Quality Management
+Generic-Quality System
+Generic-Quantitative Research
+Generic-Quantity Surveying
+Generic-Real Estate
+Generic-Recruiting
+Generic-Reporting Standards
+Generic-Reporting System
+Generic-Requirement Analysis
+Generic-Requirements Gathering
+Generic-Research and Development (R&D)
+Generic-Research Skills
+Generic-Retail
+Generic-Risk Management
+Generic-Sales
+Generic-Sales Management
+Generic-Sales Operations
+Generic-Search Engine Optimisation (SEO)
+Generic-Self Motivation
+Generic-Small Business
+Generic-Social Media Marketing
+Generic-Software as a Service (SaaS)
+Generic-Software Development
+Generic-Software Development Life Cycle (SDLC)
+Generic-Staff Development
+Generic-Statistical Process Control
+Generic-Strategic Planning
+Generic-Supply Chain Management
+Generic-Talent Management
+Generic-Taxation
+Generic-Team Building
+Generic-Team Leadership
+Generic-Team Management
+Generic-Teamwork
+Generic-Technical Support
+Generic-Technology Law
+Generic-Telecommunications
+Generic-Test Driven Development
+Generic-Testing
+Generic-Thoroughness
+Generic-Time Management
+Generic-Training
+Generic-Troubleshooting
+Generic-Uml Design
+Generic-Underwriting
+Generic-Unified Communications
+Generic-University Lecturing
+Generic-University Teaching
+Generic-User Acceptance Testing
+Generic-User Experience (UX)
+Generic-User Interface Design (UI)
+Generic-Value Added Tax
+Generic-Value Analysis and Value Engineering
+Generic-Vendor Management
+Generic-Verification and Validation
+Generic-Very Large Scale Integration
+Generic-Video Editing
+Generic-Video Graphics Array
+Generic-Video Post-Production
+Generic-Video Production
+Generic-Visual Effects
+Generic-Voice over IP (VoIP)
+Generic-Volunteer Management
+Generic-Web Design
+Generic-Wicklander-Zulawski Interview & Integration
+Generic-Workforce Management
+Generic-Workplace Health and Safety
+Generic-Writing
+Generic-Xmind Software
+Generic-XML/XSLT
+Generic-Yachting
+Generic-Yardi
+Generic-Yield Management
+Generic-YouTube Advertising
+Generic-Zendesk
+Generic-Zoho CRM

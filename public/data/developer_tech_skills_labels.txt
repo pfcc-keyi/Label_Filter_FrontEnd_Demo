@@ -1,0 +1,109 @@
+Developer (Tools & IDE) - Git Version Control System
+Developer (Tools & IDE) - Micro Focus Quality Center
+Developer (Tools & IDE) - Human Machine Interface
+Developer (Tools & IDE) - JD Edwards
+Developer (Tools & IDE) - Jenkins
+Developer (Tools & IDE) - Jira
+Developer (Tools & IDE) - Knime
+Developer (Tools & IDE) - QGIS
+Developer (Tools & IDE) - Toad Database Developer
+Developer (Tools & IDE) - Warehouse Management Systems
+Developer (Tools & IDE) - Xampp
+Developer (Tools & IDE) - Xcode
+Developer (Tools & IDE) - Zapier
+Developer (Tools & IDE) - Zephyr
+Developer (Programming) - Cascading Style Sheet (CSS)
+Developer (Programming) - C-Related Programming (C/C++/C#)
+Developer (Programming) - F#
+Developer (Programming) - HTML
+Developer (Programming) - J#
+Developer (Programming) - Java
+Developer (Programming) - JavaScript
+Developer (Programming) - Jcl
+Developer (Programming) - Jvm
+Developer (Programming) - Kotlin
+Developer (Programming) - Ksh
+Developer (Programming) - Language Integrated Query (LINQ)
+Developer (Programming) - LESS
+Developer (Programming) - Lisp Flavoured Erlang
+Developer (Programming) - Lua Programming
+Developer (Programming) - Node.js
+Developer (Programming) - NXT-G Programming Language
+Developer (Programming) - Object-Oriented Programming
+Developer (Programming) - PHP Programming
+Developer (Programming) - PLC Programming
+Developer (Programming) - Python (Programming Language)
+Developer (Programming) - Q#
+Developer (Programming) - R (Programming Language)
+Developer (Programming) - Rexx Programming Language
+Developer (Programming) - RPG Programming Language
+Developer (Programming) - Ruby Programming
+Developer (Programming) - SAP ABAP
+Developer (Programming) - SASS
+Developer (Programming) - SQL Query Language
+Developer (Programming) - Swift
+Developer (Programming) - V+
+Developer (Programming) - Vhdl
+Developer (Programming) - Visual Basic for Applications (VBA)
+Developer (Programming) - Visual Basic (VB)
+Developer (Programming) - Wireless Markup Language
+Developer (Programming) - X++
+Developer (Programming) - XAML
+Developer (Programming) - XHTML
+Developer (Infra/DevOps) - Android
+Developer (Infra/DevOps) - Apple iOS
+Developer (Infra/DevOps) - Alibaba Cloud
+Developer (Infra/DevOps) - Apache (Kafka/ZooKeeper/HTTP Server)
+Developer (Infra/DevOps) - AWS
+Developer (Infra/DevOps) - Azure
+Developer (Infra/DevOps) - Border Gateway Protocol (BGP)
+Developer (Infra/DevOps) - Docker
+Developer (Infra/DevOps) - Domain Name System
+Developer (Infra/DevOps) - Fiber Distributed Data Interface Internet Protocol
+Developer (Infra/DevOps) - Google Cloud
+Developer (Infra/DevOps) - HP-UX Operating System
+Developer (Infra/DevOps) - Hyper-V
+Developer (Infra/DevOps) - IBM AIX
+Developer (Infra/DevOps) - Internet Information Services (IIS)
+Developer (Infra/DevOps) - Internet of Things (IoT)
+Developer (Infra/DevOps) - Kubernetes
+Developer (Infra/DevOps) - Lightweight Directory Access Protocol
+Developer (Infra/DevOps) - Mac OS X Server
+Developer (Infra/DevOps) - Microsoft Transaction Servers
+Developer (Infra/DevOps) - Oracle Containers for Java EE
+Developer (Infra/DevOps) - Red Hat
+Developer (Infra/DevOps) - RTO Knowledge
+Developer (Infra/DevOps) - Site Reliability Engineering
+Developer (Infra/DevOps) - Solaris Zones
+Developer (Infra/DevOps) - Unix
+Developer (Infra/DevOps) - Virtual Private Network
+Developer (Infra/DevOps) - Virtualisation
+Developer (Infra/DevOps) - VMware
+Developer (Infra/DevOps) - Web Application Firewall (WAF)
+Developer (Infra/DevOps) - Windows Server
+Developer (Infra/DevOps) - Wireless Application Protocol (WAP)
+Developer (Infra/DevOps) - X.400 Messaging Standard
+Developer (Infra/DevOps) - Xenix Operating System
+Developer (Infra/DevOps) - Z/OS
+Developer (Infra/DevOps) - Z/VM
+Developer (Infra/DevOps) - Zabbix Software
+Developer (Infra/DevOps) - Zimbra
+Developer (Database & Messaging) - IBM DB2
+Developer (Database & Messaging) - High-Level Data Link Control
+Developer (Database & Messaging) - HL7 Standards
+Developer (Database & Messaging) - Informix
+Developer (Database & Messaging) - Java Message Service
+Developer (Database & Messaging) - M204
+Developer (Database & Messaging) - Microsoft Open Database Connectivity
+Developer (Database & Messaging) - Microsoft SQL Server
+Developer (Database & Messaging) - MySQL
+Developer (Database & Messaging) - Neo4j
+Developer (Database & Messaging) - Oracle
+Developer (Database & Messaging) - Oracle Database
+Developer (Database & Messaging) - PostgreSQL
+Developer (Database & Messaging) - Redis
+Developer (Database & Messaging) - RocketMQ
+Developer (Database & Messaging) - SQLite
+Developer (Database & Messaging) - Sybase
+Developer (Database & Messaging) - Teradata
+Developer (Database & Messaging) - T-SQL
